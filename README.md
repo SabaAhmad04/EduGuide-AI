@@ -4,7 +4,7 @@ AI-powered career guidance platform that helps students discover suitable career
 
 ## 🚀 Live Demo
 
-[Live Website]([https://eduguide-ai-2.onrender.com/])
+Live Demo: https://eduguide-ai-2.onrender.com/
 
 ## 📌 Problem Statement
 
