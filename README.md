@@ -4,7 +4,7 @@ AI-powered career guidance platform that helps students discover suitable career
 
 ## 🚀 Live Demo
 
-[Live Website](YOUR_RENDER_LINK)
+[Live Website]([YOUR_RENDER_LINK](https://eduguide-ai-2.onrender.com/))
 
 ## 📌 Problem Statement
 
@@ -71,22 +71,6 @@ EduGuide AI uses Google's Gemini API to:
 
 ### Deployment
 - Render
-
----
-
-## 📸 Screenshots
-
-### Home Page
-(Add Screenshot)
-
-### Student Profile Form
-(Add Screenshot)
-
-### AI Analysis Report
-(Add Screenshot)
-
-### Personalized Roadmap
-(Add Screenshot)
 
 ---
 
