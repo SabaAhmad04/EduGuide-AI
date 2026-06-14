@@ -12,17 +12,16 @@ const analyzeRoute = require("./routes/analyzeRoute");
 
 app.use("/api", analyzeRoute);
 
-app.use(
-  express.static(
-    path.join(__dirname, "../client/dist")
-  )
-);
+app.use(express.static(
+  path.join(__dirname, "../client/dist")
+));
 
-app.get("/*", (req, res) => {
+app.use((req, res) => {
   res.sendFile(
     path.join(__dirname, "../client/dist/index.html")
   );
 });
+
 
 const PORT = process.env.PORT || 5000;
 
